@@ -1,8 +1,10 @@
-import React from 'react'
+import Calculator from "./Components/welcame"
 
 const App = () => {
   return (
-    <div className='text-4xl font-bold text-green-600'>App</div>
+    <div>
+<Calculator />
+    </div>
   )
 }
 
